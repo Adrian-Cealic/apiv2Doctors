@@ -1,48 +1,47 @@
 [
-    {
-      "id": 1,
-      "name": "Dr. Alexander Bennett, PH.D",
-      "field": "Dermato-Endocrinology",
-      "experience": "15 years",
-      "focus": "Hormonal skin disorders",
-      "stars": 4.8,
-      "gender": "male"
-    },
-    {
-      "id": 2,
-      "name": "Dr. Sophia Matthews, PH.D",
-      "field": "Cosmetic Bioengineering",
-      "experience": "10 years",
-      "focus": "Anti-aging treatments",
-      "stars": 4.9,
-      "gender": "female"
-    },
-    {
-      "id": 3,
-      "name": "Dr. Michael Harrison, PH.D",
-      "field": "Dermato-Genetics",
-      "experience": "8 years",
-      "focus": "Genetic skin conditions",
-      "stars": 4.7,
-      "gender": "male"
-    },
-    {
-      "id": 4,
-      "name": "Dr. Olivia Wilson, PH.D",
-      "field": "Solar Dermatology",
-      "experience": "12 years",
-      "focus": "Skin cancer prevention",
-      "stars": 4.6,
-      "gender": "female"
-    },
-    {
-      "id": 5,
-      "name": "Dr. William Johnson, PH.D",
-      "field": "Dermato-Endocrinology",
-      "experience": "20 years",
-      "focus": "Thyroid-related skin issues",
-      "stars": 4.9,
-      "gender": "male"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Dr. Alexander Bennett, PH.D",
+    "field": "Dermato-Endocrinology",
+    "experience": "15 years",
+    "focus": "Hormonal skin disorders",
+    "stars": 4.8,
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Sophia Matthews, PH.D",
+    "field": "Cosmetic Bioengineering",
+    "experience": "10 years",
+    "focus": "Anti-aging treatments",
+    "stars": 4.9,
+    "gender": "female"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Michael Harrison, PH.D",
+    "field": "Dermato-Genetics",
+    "experience": "8 years",
+    "focus": "Genetic skin conditions",
+    "stars": 4.7,
+    "gender": "male"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Olivia Wilson, PH.D",
+    "field": "Solar Dermatology",
+    "experience": "12 years",
+    "focus": "Skin cancer prevention",
+    "stars": 4.6,
+    "gender": "female"
+  },
+  {
+    "id": 5,
+    "name": "Dr. William Johnson, PH.D",
+    "field": "Dermato-Endocrinology",
+    "experience": "20 years",
+    "focus": "Thyroid-related skin issues",
+    "stars": 4.9,
+    "gender": "male"
+  }
+]
